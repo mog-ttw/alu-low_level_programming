@@ -31,3 +31,6 @@ This project introduces recursion in C programming.
 - No static variables
 - No standard library functions in the submitted implementations
 - Function prototypes declared in main.h
+## Author
+
+Ayobamidele Daniel

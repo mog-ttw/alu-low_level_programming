@@ -33,3 +33,6 @@ Compile using GCC with:
 - No more than five functions per file.
 - Use only permitted standard library functions.
 - Include all prototypes in main.h.
+## Author
+
+Ayobamidele Daniel

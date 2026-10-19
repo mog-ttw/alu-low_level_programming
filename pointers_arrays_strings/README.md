@@ -31,7 +31,6 @@ This project introduces pointers, arrays, strings, and basic string manipulation
 The source files are checked with:
 
 `gcc -Wall -Werror -Wextra -pedantic -std=gnu89`
-
 ## Author
 
-Liata Ornella Sifa
+Ayobamidele Daniel

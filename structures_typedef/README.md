@@ -26,3 +26,6 @@ The project uses:
 
 `gcc -Wall -Werror -Wextra -pedantic -std=gnu89`
 `
+## Author
+
+Ayobamidele Daniel
