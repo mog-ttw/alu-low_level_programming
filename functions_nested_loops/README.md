@@ -37,4 +37,4 @@ Programs are checked using:
 
 ## Author
 
-Liata Ornella Sifa
+Ayobamidele Daniel
